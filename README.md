@@ -37,6 +37,14 @@ Jarvis is a versatile and interactive desktop assistant developed using Python. 
 - Multi-language support. Integration with IoT devices.
 - Contextual awareness for personalized responses.
 - Enhanced security and privacy features.
+## Installation
+1. Clone the repository 
+2. Install the required libraries
+3. Set up the necessary files:
+
+- Create a password.txt file with your desired password.
+- Create an Alarmtext.txt file for storing alarm times.
+- Ensure all necessary scripts and modules are in place as referenced in the main script.
 ## Acknowledgements
 
 We thank the open-source community for their valuable libraries and contributions, which made this project possible.
